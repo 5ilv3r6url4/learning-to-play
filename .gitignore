@@ -1,0 +1,6 @@
+# Project files and directories
+/build
+/ext/libtorch
+**/.DS_Store
+project_path.hpp
+project_path.hpp.in
